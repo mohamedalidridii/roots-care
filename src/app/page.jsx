@@ -58,7 +58,7 @@ plastique devienne un souvenir lointain.
               </Copy>
 
               <Button delay={isInitialLoad ? 6.35 : 1.55} href="/studio">
-                voir nos produits
+                voir nos catalogue
               </Button>
             </div>
           </div>
