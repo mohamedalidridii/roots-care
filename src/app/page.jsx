@@ -118,7 +118,7 @@ plastique devienne un souvenir lointain.
           <div className="client-reviews-header-content">
             <div className="client-reviews-header">
               <Copy animateOnScroll={true} delay={0.25}>
-                <h1>Nos Catalogues du moment</h1>
+                <h1>Nos Racines Intérieures</h1>
               </Copy>
             </div>
 

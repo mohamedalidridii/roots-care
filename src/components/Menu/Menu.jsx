@@ -479,7 +479,7 @@ const Menu = ({ pageRef }) => {
             </p>
 
             <p ref={closeLabelRef} className="close-label">
-              Close
+              Fermer
             </p>
           </div>
         </div>
@@ -494,24 +494,24 @@ const Menu = ({ pageRef }) => {
             }}
           >
             <div className="menu-content-group">
-              <p>&copy; Polite Chaos</p>
-              <p>Seaside Studio Block</p>
-              <p>Oslo</p>
+              <p>&copy; Roots Care Cubes</p>
+              <p>X KOYOTEC.</p>
+              <p>Tunisia</p>
             </div>
 
             <div className="menu-content-group">
-              <p>Edition</p>
-              <p>Late Vol. 04</p>
+              <p>Build</p>
+              <p>with love and passion 04</p>
             </div>
 
             <div className="menu-content-group">
-              <p>Say Hello</p>
-              <p>hi@politechaos.com</p>
+              <p>Email</p>
+              <p>contact@rootscare.com</p>
             </div>
 
             <div className="menu-content-group">
-              <p>Hotline</p>
-              <p>+47 9824 554321</p>
+              <p>Telephone</p>
+              <p>+216 99 999 999</p>
             </div>
           </div>
           <div
@@ -521,26 +521,18 @@ const Menu = ({ pageRef }) => {
             }}
           >
             <div className="menu-content-group">
-              <p>Field Log</p>
+              <p>Follow us</p>
 
-              <a href="https://www.instagram.com/codegridweb/" target="_blank">
+              <a href="https://www.instagram.com/roots_care_cubes/" target="_blank">
                 Instagram
               </a>
 
-              <a href="https://www.youtube.com/@codegrid" target="_blank">
-                YouTube
-              </a>
             </div>
 
-            <div className="menu-content-group">
-              <p>Language</p>
-              <p>Human</p>
-            </div>
 
             <div className="menu-content-group">
               <p>Credits</p>
-              <p>Made by Codegrid</p>
-              <p>MWT. OCT2025</p>
+              <p>Roots care cubes</p>
             </div>
           </div>
         </div>

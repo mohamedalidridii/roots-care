@@ -16,7 +16,7 @@ const Page = () => {
     () => [
       {
         index: "01",
-        name: "Citychild",
+        name: "Shampoing solide Framboise",
         href: "/sample-project",
         variant: "variant-1",
         images: [
@@ -27,7 +27,7 @@ const Page = () => {
       },
       {
         index: "02",
-        name: "Chrome Saint",
+        name: "Shampoing solide Citron",
         href: "/sample-project",
         variant: "variant-2",
         images: [
@@ -38,7 +38,7 @@ const Page = () => {
       },
       {
         index: "03",
-        name: "G-Dream",
+        name: "Après shampoing solide",
         href: "/sample-project",
         variant: "variant-2",
         images: [
@@ -49,9 +49,9 @@ const Page = () => {
       },
       {
         index: "04",
-        name: "Stoneface",
+        name: "Shampoing fleur d’oranger",
         href: "/sample-project",
-        variant: "variant-3",
+        variant: "variant-1",
         images: [
           "/work/work_4_1.jpg",
           "/work/work_4_2.jpg",
@@ -60,24 +60,13 @@ const Page = () => {
       },
       {
         index: "05",
-        name: "Amber Cloak",
+        name: "près shampoing solide musk",
         href: "/sample-project",
-        variant: "variant-1",
+        variant: "variant-3",
         images: [
           "/work/work_5_1.jpg",
           "/work/work_5_2.jpg",
           "/work/work_5_3.jpg",
-        ],
-      },
-      {
-        index: "06",
-        name: "Paper Blade",
-        href: "/sample-project",
-        variant: "variant-2",
-        images: [
-          "/work/work_6_1.jpg",
-          "/work/work_6_2.jpg",
-          "/work/work_6_3.jpg",
         ],
       },
     ],

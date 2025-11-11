@@ -11,14 +11,14 @@ const CTACard = () => {
         <div className="cta-copy">
           <div className="cta-col">
             <Copy animateOnScroll={true}>
-              <p className="sm">Part of the collective</p>
+              <p className="sm"></p>
             </Copy>
           </div>
 
           <div className="cta-col">
             <Copy animateOnScroll={true}>
               <p className="lg">
-              	
+               n&apos;hésitez pas a nous contacter	
 	      </p>
             </Copy>
 
@@ -28,7 +28,7 @@ const CTACard = () => {
               variant="dark"
               href="/contact"
             >
-              Drop your portfolio
+             Reservez maintenant!  
             </Button>
           </div>
         </div>
@@ -63,7 +63,7 @@ const CTACard = () => {
                 icon={MdArticle}
                 href="/studio"
               >
-                Read the theory
+                Qui somme nous ?
               </Button>
             </div>
           </div>
