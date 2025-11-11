@@ -18,9 +18,8 @@ const CTACard = () => {
           <div className="cta-col">
             <Copy animateOnScroll={true}>
               <p className="lg">
-                Polite Chaos is connected to The Noise Network, a collective of
-                studios exploring digital art as emotion, motion, and code.
-              </p>
+              	
+	      </p>
             </Copy>
 
             <Button
@@ -38,23 +37,23 @@ const CTACard = () => {
           <div className="cta-card-copy">
             <div className="cta-card-col">
               <Copy animateOnScroll={true}>
-                <h3>Secret Department</h3>
+                <h3>L&apos;Art de la Révolution Minimaliste</h3>
               </Copy>
             </div>
 
             <div className="cta-card-col">
               <Copy animateOnScroll={true}>
                 <p>
-                  We like to think we build order out of chaos, but it’s usually
-                  the other way around. Every project starts as a mess of
-                  sketches and motion tests.
-                </p>
+                	Nous ne fabriquons pas de simples savons, nous distillons un futur.
+	  		Notre histoire commence par un désordre créatif,
+	  		celui d'oser rêver d'une salle de bain zéro déchet.
+	  	</p>
 
                 <p>
-                  If something feels too polished, we probably broke it on
-                  purpose and rebuilt it slightly wrong, just enough to feel
-                  human.
-                </p>
+                	Notre touche secrète ? Un équilibre parfait entre l'audace artisanale et l'expertise en galénique.
+	  		Rejoignez la communauté Roots et transformez votre douche quotidienne en un acte puissant,
+	  		pour vous et pour la planète.
+	  	</p>
               </Copy>
 
               <Button

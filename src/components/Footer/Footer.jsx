@@ -203,7 +203,7 @@ const Footer = () => {
         <div className="footer-header-content">
           <div className="footer-header">
             <Copy animateOnScroll={true} delay={0.2}>
-              <h1>Let's build something that feels alive</h1>
+              <h1>Le soin sans plastique qui respecte la planète</h1>
             </Copy>
           </div>
           <div className="footer-link">
