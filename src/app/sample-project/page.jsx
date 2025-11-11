@@ -8,8 +8,8 @@ const Page = () => {
     <div className="sample-project-page">
       <section className="project-header">
         <Copy delay={0.75}>
-          <p className="lg">Engineered Perfection</p>
-          <h1>Gunmetal Dream</h1>
+          <p className="lg">Random Text</p>
+          <h1>Shampoing</h1>
         </Copy>
       </section>
 
@@ -46,8 +46,8 @@ const Page = () => {
           </div>
 
           <div className="details">
-            <p>Studio</p>
-            <h3>Polite Chaos</h3>
+            <p>Laboratoir</p>
+            <h3>Roots Care Cubes</h3>
           </div>
         </Copy>
       </section>

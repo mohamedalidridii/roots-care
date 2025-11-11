@@ -199,38 +199,34 @@ const Page = () => {
       <div className="contact-copy">
         <div className="contact-col">
           <Copy delay={0.8}>
-            <h2>Things in motion stay interesting</h2>
+            <h2>LA MAGIE DE LA BOTANIQUE</h2>
           </Copy>
         </div>
 
         <div className="contact-col">
           <div className="contact-group">
             <Copy delay={0.8}>
-              <p className="sm">Focus</p>
-              <p>Motion Worlds</p>
-              <p>Dream Engineering</p>
-              <p>Strange Branding</p>
             </Copy>
           </div>
 
           <div className="contact-group">
             <Copy delay={1.2}>
-              <p className="sm">Base</p>
-              <p>Old Harbour District, Oslo</p>
+              <p className="sm">Adresse</p>
+              <p>Tunis, Tunisie</p>
             </Copy>
           </div>
 
           <div className="contact-mail">
             <Button delay={1.3} href="/">
-              studio@politechaos.com
+              contact@rootscare.com
             </Button>
           </div>
 
           <div className="contact-group">
             <Copy delay={1.4}>
-              <p className="sm">Credits</p>
-              <p>Created by Codegrid</p>
-              <p>Edition 2025</p>
+              <p className="sm">Follow us</p>
+              <p>Instagram</p>
+              <p>facebook</p>
             </Copy>
           </div>
         </div>
@@ -239,14 +235,14 @@ const Page = () => {
       <div className="contact-footer">
         <div className="container">
           <Copy delay={1.6} animateOnScroll={false}>
-            <p className="sm">Made in Motion</p>
+            <p className="sm">Tunis, Tunisia</p>
           </Copy>
 
           <div className="contact-socials">
             <Copy delay={1.7} animateOnScroll={false}>
               <a
                 className="sm"
-                href="https://www.instagram.com/codegridweb/"
+                href="https://www.instagram.com/roots_care_cubes/"
                 target="_blank"
               >
                 Instagram
@@ -259,22 +255,13 @@ const Page = () => {
                 href="https://www.youtube.com/@codegrid"
                 target="_blank"
               >
-                YouTube
+               Facebook 
               </a>
             </Copy>
 
-            <Copy delay={1.9} animateOnScroll={false}>
-              <a
-                className="sm"
-                href="https://x.com/codegridweb"
-                target="_blank"
-              >
-                Twitter
-              </a>
-            </Copy>
           </div>
           <Copy delay={2} animateOnScroll={false}>
-            <p className="sm">&copy; Polite Chaos</p>
+            <p className="sm">&copy; Roots Care Cubes</p>
           </Copy>
         </div>
       </div>

@@ -3,10 +3,10 @@ import ClientLayout from "@/client-layout";
 import { ViewTransitions } from "next-view-transitions";
 
 export const metadata = {
-  title: "Polite Chaos | Codegrid",
-  description: "MWT by Codegrid",
+  title: "Roots Care Cube",
+  description: "Site web",
   icons: {
-    icon: "/site-logo.png",
+    icon: "/logo.svg",
     shortcut: "/site-logo.png",
     apple: "/site-logo.png",
   },

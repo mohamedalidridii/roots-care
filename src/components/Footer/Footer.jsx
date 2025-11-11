@@ -214,23 +214,23 @@ const Footer = () => {
               icon={IoMail}
               href="/contact"
             >
-              Say Hello
+              n&apos;hesiter pas a nous contacter
             </Button>
           </div>
         </div>
         <div className="footer-byline">
           <div className="footer-time">
             <p>
-              Toronto, ON <span>{torontoTime}</span>
+              TUNISIA <span>{torontoTime}</span>
             </p>
           </div>
 
           <div className="footer-author">
-            <p>Developed by Codegrid</p>
+            <p>Developed by KOYOTEC Digital Agency</p>
           </div>
 
           <div className="footer-copyright">
-            <p>&copy; Polite Chaos</p>
+            <p>&copy; Roots Care Cubes</p>
           </div>
         </div>
       </div>
