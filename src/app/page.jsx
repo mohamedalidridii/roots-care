@@ -118,7 +118,7 @@ plastique devienne un souvenir lointain.
           <div className="client-reviews-header-content">
             <div className="client-reviews-header">
               <Copy animateOnScroll={true} delay={0.25}>
-                <h1>People Approved</h1>
+                <h1>Nos Catalogues du moment</h1>
               </Copy>
             </div>
 
@@ -150,9 +150,9 @@ plastique devienne un souvenir lointain.
             <div className="client-reviews-header-copy">
               <Copy animateOnScroll={true} delay={0.25}>
                 <p className="lg">
-                  Unfiltered thoughts from the people who survived our creative
-                  process. Or at least that’s what they told us.
-                </p>
+	  		Nos offres en exclusivité!
+                
+	  	</p>
               </Copy>
             </div>
           </div>
