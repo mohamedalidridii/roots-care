@@ -198,7 +198,7 @@ const Page = () => {
     <section className="contact screensaver-container" ref={containerRef}>
       <div className="contact-copy">
         <div className="contact-col">
-          <Copy delay={0.8}>
+          <Copy delay={0.7}>
             <h2>LA MAGIE DE LA BOTANIQUE</h2>
           </Copy>
         </div>

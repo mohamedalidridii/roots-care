@@ -39,6 +39,7 @@
 
 .contact .contact-copy .contact-col h2 {
   width: 65%;
+  font-size: 4rem;
 }
 
 .contact .contact-copy p.sm {
@@ -80,7 +81,7 @@
 
   .contact .contact-copy .contact-col h2 {
     width: 90%;
-    font-size: 3rem;
+    font-size: 4rem;
   }
 
   .contact .contact-footer {
