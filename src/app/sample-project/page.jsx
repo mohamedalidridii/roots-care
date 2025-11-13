@@ -8,8 +8,8 @@ const Page = () => {
     <div className="sample-project-page">
       <section className="project-header">
         <Copy delay={0.75}>
-          <p className="lg">Random Text</p>
-          <h1>Shampoing</h1>
+          <p className="lg">Après shampoing</p>
+          <h1>Solide Naturel</h1>
         </Copy>
       </section>
 
@@ -23,26 +23,25 @@ const Page = () => {
         <Copy animateOnScroll={true}>
           <div className="details">
             <p>Concept</p>
-            <h3>
-              A visual narrative set in a metallic dreamscape, Gunmetal Dream
-              explores the tension between machine and memory where emotion
-              flickers inside engineered perfection.
-            </h3>
+            <h4>
+	  Complétez votre routine avec l&apos;après-shampoing solide Roots, spécialement formulé pour les cheveux gras.
+	  Enrichi en huile de jojoba, il démêle sans alourdir et agit pour réguler l&apos;excès de sébum. Économique et pratique sous sa forme cubique, il laisse vos cheveux légers, brillants et frais, le tout enveloppé d&apos;un agréable parfum de verveine.
+	  </h4>
           </div>
 
           <div className="details">
-            <p>Cycle</p>
-            <h3>2025</h3>
+            <p>Forme</p>
+            <h3>Cube de 15 mm - 12 unités par boîte</h3>
           </div>
 
           <div className="details">
-            <p>Form</p>
-            <h3>Digital Art Series</h3>
+            <p>Actifs</p>
+            <h3>Huile de jojoba</h3>
           </div>
 
           <div className="details">
-            <p>Medium</p>
-            <h3>3D Design and Motion</h3>
+            <p></p>
+            <h3>Sans sulfates, sans parabènes, sans silicones</h3>
           </div>
 
           <div className="details">
