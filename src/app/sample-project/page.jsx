@@ -89,28 +89,28 @@ const Page = () => {
       <section className="project-details">
         <Copy animateOnScroll={true}>
           <div className="details">
-            <p>Assembly</p>
-            <h3>Rhea Korrin</h3>
+            <p>Couleur</p>
+            <h3>Vert</h3>
           </div>
 
           <div className="details">
-            <p>Sound</p>
-            <h3>Ezra Lowell</h3>
+            <p>Style</p>
+            <h3>Cube solide zéro déchet</h3>
           </div>
 
           <div className="details">
-            <p>Direction of Form</p>
-            <h3>Jun Park</h3>
+            <p>Matière active</p>
+            <h3>Huile de Noisette, Huile de pépins de Raisains, Hydrolat d’Ortie</h3>
           </div>
 
           <div className="details">
-            <p>Production</p>
-            <h3>Isla Trent</h3>
+            <p>Fragrance</p>
+            <h3>Verveine fraîche</h3>
           </div>
 
           <div className="details">
-            <p>Vision Lead</p>
-            <h3>Kael Morrow</h3>
+            <p>Usage</p>
+            <h3>Cheveux gras – purifiant & régulateur</h3>
           </div>
         </Copy>
       </section>
