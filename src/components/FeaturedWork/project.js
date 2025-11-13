@@ -1,19 +1,19 @@
 export const projects = [
   {
-    name: "Citychild",
-    description: "A quiet rebellion drawn in digital ink.",
+    name: "Shampoing",
+    description: "Parfum Citron Verveine",
     img: "/featured-work/work-1.jpg",
     route: "/sample-project",
   },
   {
-    name: "Chrome Saint",
-    description: "A reflective figure sculpted in synthetic light.",
+    name: "Shampoing",
+    description: "musk blanc rouge rose.",
     img: "/featured-work/work-2.jpg",
     route: "/sample-project",
   },
   {
-    name: "Gunmetal Dream",
-    description: "Tension, style, and a hint of cinematic noir.",
+    name: "Shampoing",
+    description: "musk blanc rouge rose",
     img: "/featured-work/work-3.jpg",
     route: "/sample-project",
   },
