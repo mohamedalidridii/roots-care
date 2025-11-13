@@ -468,7 +468,7 @@ const Menu = ({ pageRef }) => {
               navigateWithTransition("/", isMenuOpen ? toggleMenu : null);
             }}
           >
-            <img src="/logo.svg" alt="" />
+            <img src="/menu/menu_img.jpg" alt="" />
           </a>
         </div>
 
